@@ -15,7 +15,7 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import java.time.LocalDate;
 
 @Controller
-@RequestMapping("/avaliacao")
+@RequestMapping("/conta")
 public class avaliacaoController {
 
     @Autowired
