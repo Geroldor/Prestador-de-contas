@@ -1,2 +1,2 @@
-# Prestador de contas
-Prestador de contas simples utilizando Spring Boot
+# TrabBD
+Sistema de Avaliação de Jogos
